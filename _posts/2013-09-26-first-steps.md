@@ -9,7 +9,7 @@ summary : An introductory post - The purpose of this blog and my goals for the n
 
 Well, here I am. Fresh out of college, 3 months into a new job, the greenest of the green...
 
-![What I wake up to every day]({{ site.url }}/assets/noidea.jpg)
+![What I wake up to every day]({{ site.url }}/blog/assets/noidea.jpg)
 
 I graduated in May from Bucknell University with a degree in Computer Engineering. Being a member of the second graduating class
 of that major, I naturally had no idea how to leverage my skills into a career. So... here I am as a UI developer! The majority of
